@@ -53,8 +53,8 @@ Install **Netdata** and visualize system and application performance metrics usi
 <img width="1850" height="971" alt="Screenshot 2025-10-02 232607" src="https://github.com/user-attachments/assets/7067d823-529c-41fa-9342-3d1af809a4be" />
 <img width="1834" height="898" alt="Screenshot 2025-10-02 232548" src="https://github.com/user-attachments/assets/9ca67e3d-87d2-4401-a037-436f96fe7ab8" />
 
-## 📸 Screensho![Uploading Screenshot 2025-10-02 232649.png…]()
-t
+## 📸 Screenshot ![Uploading Screenshot 2025-10-02 232649.png…]()
+
 ![Uploading Screenshot 2025-10-02 150444.png…]()
 
 ![Netdata Dashboard](./screenshot.png)
