@@ -28,7 +28,7 @@ Install **Netdata** and visualize system and application performance metrics usi
    ```
 
 3. **Accessed dashboard:**
-   Opened browser at [http://localhost:19999](http://localhost:19999)
+   
 
 4. **Monitored resources:**
 
@@ -39,6 +39,7 @@ Install **Netdata** and visualize system and application performance metrics usi
    * Alerts and health checks
 
 5. **Captured screenshot** of running dashboard.
+![Uploading Screenshot 2025-10-02 150444.png…]()
 
 ---
 
