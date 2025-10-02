@@ -39,11 +39,12 @@ Install **Netdata** and visualize system and application performance metrics usi
    * Alerts and health checks
 
 5. **Captured screenshot** of running dashboard.
-![Uploading Screenshot 2025-10-02 150444.png…]()
+<img width="1106" height="969" alt="Screenshot 2025-10-02 150444" src="https://github.com/user-attachments/assets/efec8bd4-3381-40b1-8485-0bdce262ca3f" />
 
 ---
 
 ## 📸 Screenshot
+![Uploading Screenshot 2025-10-02 150444.png…]()
 
 ![Netdata Dashboard](./screenshot.png)
 
